@@ -1,0 +1,1 @@
+export {GenderEnum} from "./user.enum.js"
